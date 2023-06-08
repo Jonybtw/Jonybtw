@@ -1,4 +1,4 @@
-# Hello, I'm [Jony]! 👋
+# Hello, I'm **Jony**! 👋
 
 Welcome to my GitHub page!
 
@@ -8,11 +8,11 @@ I am an enthusiastic learner with a passion for technology, currently focusing o
 
 ## Skills and Interests
 
-- Web Development: HTML, CSS, JavaScript
-- C++: Object-oriented programming
-- Java: Application development
-- Python: Scripting, web scraping
-- SQL: Database management, querying
+- **Web Development:** HTML, CSS, JavaScript
+- **C++:** Object-oriented programming
+- **Java:** Application development
+- **Python:** Scripting, web scraping
+- **SQL:** Database management, querying
 
 ## Small Projects
 
@@ -23,4 +23,4 @@ I do projects that allow me to apply my skills. Here are a few examples:
 - [Project 3](link-to-project-3): Description of project 3.
 
 ## Contact Me
-- Twitter: [@jonybtw_](https://twitter.com/jonybtw_)
+- Twitter: @jonybtw_(https://twitter.com/jonybtw_)
