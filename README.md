@@ -23,4 +23,4 @@ I do projects that allow me to apply my skills. Here are a few examples:
 - [Project 3](link-to-project-3): Description of project 3.
 
 ## Contact Me
-- Twitter: @jonybtw_(https://twitter.com/jonybtw_)
+- Twitter: [@jonybtw_](https://twitter.com/jonybtw_)
