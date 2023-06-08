@@ -4,7 +4,7 @@ Welcome to my GitHub page!
 
 ## About Me
 
-I am an enthusiastic learner with a passion for technology, currently focusing on web development, C++, Java, Python, and SQL. I enjoy diving deep into these languages and frameworks to build exciting and practical projects.
+I am an enthusiastic learner with a passion for technology, currently focusing on web development, C++, Java, Python, and SQL. I enjoy diving deep into these languages to build exciting and practical projects.
 
 ## Skills and Interests
 
