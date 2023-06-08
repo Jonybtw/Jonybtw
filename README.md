@@ -18,9 +18,9 @@ I am an enthusiastic learner with a passion for technology, currently focusing o
 
 I do projects that allow me to apply my skills. Here are a few examples:
 
-- [Project 1](link-to-project-1): Description of project 1.
-- [Project 2](link-to-project-2): Description of project 2.
-- [Project 3](link-to-project-3): Description of project 3.
+- [Vitrine Lisboa - Gallery](https://github.com/Jonybtw/jonybtw.github.io)
+- [Web Tic Tac Toe](https://github.com/Jonybtw/web-tictactoe/)
+- [Java CLI EuroMillions Number Generator](https://github.com/Jonybtw/Java-CLI-EuroMillions-Number-Generator/)
 
 ## Contact Me
 - Twitter: [@jonybtw_](https://twitter.com/jonybtw_)
