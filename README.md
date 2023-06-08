@@ -1,21 +1,26 @@
-### Hi there 👋
+# Hello, I'm [Jony]! 👋
 
-- 🌱 I’m currently learning CSS and JavaScript.
-- 📫 How to reach me: https://github.com/Jonybtw
-- ⚡ Fun fact: I'm from Portugal.
+Welcome to my GitHub page!
 
+## About Me
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="65" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rafa-Ts" height="30" width="65" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="65" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rafa-HTML" height="30" width="65" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="65" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCx9AU5mW7h116-WVLPcW77Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/jonyybtw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
+I am an enthusiastic learner with a passion for technology, currently focusing on web development, C++, Java, Python, and SQL. I enjoy diving deep into these languages and frameworks to build exciting and practical projects.
+
+## Skills and Interests
+
+- Web Development: HTML, CSS, JavaScript
+- C++: Object-oriented programming
+- Java: Application development
+- Python: Scripting, web scraping
+- SQL: Database management, querying
+
+## Small Projects
+
+I do projects that allow me to apply my skills. Here are a few examples:
+
+- [Project 1](link-to-project-1): Description of project 1.
+- [Project 2](link-to-project-2): Description of project 2.
+- [Project 3](link-to-project-3): Description of project 3.
+
+## Contact Me
+- Twitter: [@jonybtw_](https://twitter.com/jonybtw_)
