@@ -20,7 +20,7 @@ I do projects that allow me to apply my skills. Here are a few examples:
 
 - [Vitrine Lisboa - Gallery](https://github.com/Jonybtw/jonybtw.github.io)
 - [Web Tic Tac Toe](https://github.com/Jonybtw/web-tictactoe/)
-- [Java CLI EuroMillions Number Generator](https://github.com/Jonybtw/Java-CLI-EuroMillions-Number-Generator/)
+- [Time Control System](https://github.com/Jonybtw/Time-Control-System)
 
 ## Contact Me
 - Twitter: [@jonybtw_](https://twitter.com/jonybtw_)
