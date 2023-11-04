@@ -8,7 +8,7 @@ I am an enthusiastic learner with a passion for technology, currently focusing o
 
 ## Skills and Interests
 
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, PHP
 - **C++:** Object-oriented programming
 - **Java:** Application development
 - **Python:** Scripting, web scraping
